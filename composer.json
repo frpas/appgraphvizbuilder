@@ -1,5 +1,5 @@
 {
-    "name": "frpas/AppGraphvizBuilder",
+    "name": "frpas/appgraphvizbuilder",
     "description": "Construire une image graphique les liens applicatifs sur un perimetre donne en utilisant l'utilitaire Graphviz.",
 	"type": "library",
     "keywords": [
